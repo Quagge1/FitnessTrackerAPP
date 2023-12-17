@@ -1,0 +1,25 @@
+#workoutsTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+#workoutsTable th,
+#workoutsTable td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+#workoutsTable th {
+  background-color: #f2f2f2;
+}
+
+#workoutsList {
+  list-style-type: none;
+  padding: 0;
+}
+
+#workoutsList li {
+  margin-bottom: 8px;
+}
